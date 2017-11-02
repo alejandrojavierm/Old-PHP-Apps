@@ -1,0 +1,67 @@
+Añadir clasificado 0
+Cambiar Contrase&ntilde;a 1
+Eliminar Todo 2
+Modificar titulo 3
+Modificar color 4
+On/Off Skin 5
+Cargar/Cambiar Skin 6
+Salir 7
+Ingrese nuevo usuario y contrase&ntilde;a 8
+Usuario 9
+Contrase&ntilde;a: 10
+Realmente desea eliminar todos los mensajes? 11
+Si 12
+No 13
+Ingrese nuevo titulo: 14
+Titulo: 15
+Seleccione un nuevo color : 16
+Por nombre: 17
+Rojo/Verde/Azul 18
+Activar/desactivar skin: 19
+Activar : 20
+Cargar skin:21
+Enviar 22
+Menu 23
+Color de fondo: 24
+Skin activado: 25
+Skin/ Template: 26
+Default (luego podra modificar desde el panel de control) 27
+Error 01 en el proceso solicida soporte en <a href="www.originale.com.ar">originale Software</a> 28
+Instalacion finalizada, elimine los archivos <b>intall.php</b> y <b>proceso.php 29
+Usuario y/o contraseña incorrecta! 30
+Dejanos tu sugerencia: 31
+Mensaje: 32
+Eecribenos desde aqui, recuerda dejar tu e-mail para poder reponderte. 33
+Copiar codigo : 34
+Enviar formulario: 35
+Sugerencia enviada.36
+!Muchas Gracias!37
+Error al eviar datos 38
+Eliminado correctamente 39
+Titulo modificado exitosamente 40
+Color modificado exitosamente 41
+Skin Activado 42
+Skin Desactivado 43
+Skin Cargado exitosamente 44
+Usuario y contraseña modificados exitosamente 45
+Llave para activar: 46
+Servicicios 47
+Computacion 48
+Empleos 49
+Propiedades 50
+Varios 51
+Veiculos 52
+<strong>Agregar Clasificado  (<span class="Estilo3">Peligro!</span> no deje lugares vacios): </strong> 53
+Cantidad de impreciones   : 54
+Su anuncio  : 55
+Añadir 56
+Hecho 57
+Atras 58
+Siguiente 59
+No se encuentran mas clasificados en la seccion 60
+Listado 61
+Cuantos anuncios por pagina descea: 62
+Cantidad de anuncios por pagina modificado exitosamente: 63
+
+
+

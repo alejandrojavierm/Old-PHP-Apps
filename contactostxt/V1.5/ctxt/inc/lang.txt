@@ -1,0 +1,47 @@
+Ver mensajes
+Cambiar Contrase&ntilde;a
+Eliminar mensajes
+Modificar t&itilde;tulo
+Modificar color
+On/Off Skin
+Cargar/Cambiar Skin
+Salir
+Ingrese nuevo usuario y contrase&ntilde;a
+Usuario
+Contrase&ntilde;a:
+Realmente desea eliminar todos los mensajes?
+S&itilde;
+No
+Ingrese nuevo t&itilde;tulo:
+T&itilde;tulo:
+Seleccione un nuevo color:
+Por nombre:
+Rojo/Verde/Azul
+Activar/desactivar skin:
+Activar:
+Cargar skin:
+Enviar
+Men&utilde;
+Color de fondo:
+Skin activado:
+Skin/ Template:
+Default (luego podra modificar desde el panel de control)
+Error 01 en el proceso solicite soporte en <a href="www.originale.com.ar">originale Software</a>
+Instalaci&otilde;n finalizada, elimine los archivos <b>intall.php</b> y <b>proceso.php
+Usuario y/o contraseña incorrecta!
+Dej&itilde;nos tu sugerencia:
+Mensaje:
+Escr&itilde;benos desde aqui, recuerda dejar tu e-mail para poder reponderte.
+Copiar codigo :
+Enviar formulario:
+Sugerencia enviada.
+!Muchas Gracias!
+Error al enviar datos
+Eliminado correctamente
+T&itilde;tulo modificado exitosamente
+Color modificado exitosamente
+Skin Activado
+Skin Desactivado
+Skin Cargado exitosamente
+Usuario y contraseña modificados exitosamente
+Llave para activar:
